@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Upgraded by: @Git-Ankitraj (https://github.com/Git-Ankitraj/blackeye-im)
+# Upgraded by: @Git-spar101
 #Enhanced ngrok tunnelling
 trap 'printf "\n";stop;exit 1' 2
 menu() {
